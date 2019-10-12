@@ -1,24 +1,11 @@
-# README
+Install
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Clone the repository - git clone git@github.com:Niteshkj7/bootstrap-with-rails.git
 
-Things you may want to cover:
+cd bootstrap-with-rails (Change the directory to the project)
 
-* Ruby version
+bundle (Run this command from the terminal after changing to the project directory)
 
-* System dependencies
+rails s 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://localhost:3000/ (Local host addresss)
